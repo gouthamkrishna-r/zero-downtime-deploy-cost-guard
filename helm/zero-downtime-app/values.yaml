@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: zero-downtime-app
-  tag: "3.0"
+  tag: "4.0"
   pullPolicy: IfNotPresent
 
 service:
