@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Zero-Downtime Deploy & Cost Guard - Version 2is running!"
+    return "Zero-Downtime Deploy & Cost Guard - Version 3 is running!"
 
 @app.route("/health")
 def health():
